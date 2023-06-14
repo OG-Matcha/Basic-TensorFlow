@@ -22,3 +22,13 @@
 * Inverse matrix (Inv)
 * Singular value decompositions (Svd)
 * Einsum Method
+
+### [Common Tensorflow Functions](https://github.com/OG-Matcha/Basic-TensorFlow/blob/d2f134815d22e5470e13b24bd91d877fb1c7ce20/Common%20Tensorflow%20functions.ipynb)
+* Expand Dimensions Method (Expand_dims)
+* Squeeze Method
+* Reshape Method
+* Concatenate Method (Concat)
+* Stack Method
+* Pad Method
+* Gather Method
+* Gather N-Dimensions Method (Gather_nd)
