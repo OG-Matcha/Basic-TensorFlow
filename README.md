@@ -32,3 +32,11 @@
 * Pad Method
 * Gather Method
 * Gather N-Dimensions Method (Gather_nd)
+
+### [Ragged Tensors](https://github.com/OG-Matcha/Basic-TensorFlow/blob/2f80e78392b1e98198811b0affc7acb6da50d8e1/Ragged%20Tensor.ipynb)
+* Definition
+* Boolean Mask Method (Boolean_mask)
+* From Row Lengths Method (From_row_lengths)
+* From Row Limits Method (From_row_limits)
+* From Row Splits Method (From_row_splits)
+* From Tensor Method (From_tensor)
