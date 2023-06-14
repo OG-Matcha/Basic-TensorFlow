@@ -33,7 +33,7 @@
 * Gather Method
 * Gather N-Dimensions Method (Gather_nd)
 
-### [Ragged Tensors](https://github.com/OG-Matcha/Basic-TensorFlow/blob/975e8387d1eb8a4b084b3c2f5be0df99558bb25c/Ragged%20Tensor.ipynb)
+### [Ragged Tensors](https://github.com/OG-Matcha/Basic-TensorFlow/blob/a820ece3e8d3321f5099ccb352f916a40c95f042/Ragged%20Tensor.ipynb)
 * Definition
 * Boolean Mask Method (Boolean_mask)
 * From Row Lengths Method (From_row_lengths)
