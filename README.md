@@ -40,3 +40,18 @@
 * From Row Limits Method (From_row_limits)
 * From Row Splits Method (From_row_splits)
 * From Tensor Method (From_tensor)
+
+### [Sparse Tensor](https://github.com/OG-Matcha/Basic-TensorFlow/blob/e443a8878e399b334574149901258d13a639c4c0/Sparse%20Tensor.ipynb)
+* Definition
+* To Dense Method (To_dense)
+
+### [String Tensor](https://github.com/OG-Matcha/Basic-TensorFlow/blob/e443a8878e399b334574149901258d13a639c4c0/String%20Tensor.ipynb)
+* Definition
+* Join Method
+* Length Method
+
+### [Variable](https://github.com/OG-Matcha/Basic-TensorFlow/blob/e443a8878e399b334574149901258d13a639c4c0/Variable.ipynb)
+* Definition
+* Assign Sub Method (Assign_sub)
+* Assign Add Method (Assign_add)
+* Device Method
